@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javeria Rasheed</h1>
 <h3 align="center">Passionate about Data science and ML to solve complex problems through data driven solutions</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
+<img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 - 🌱 I’m currently learning **Data Analytics and ML**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/rjaveria?tab=repositories">here</a>
